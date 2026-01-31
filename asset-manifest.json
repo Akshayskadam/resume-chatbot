@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resume-chatbot/static/css/main.74773e1c.css",
+    "main.js": "/resume-chatbot/static/js/main.5e238205.js",
+    "static/js/453.20359781.chunk.js": "/resume-chatbot/static/js/453.20359781.chunk.js",
+    "index.html": "/resume-chatbot/index.html",
+    "main.74773e1c.css.map": "/resume-chatbot/static/css/main.74773e1c.css.map",
+    "main.5e238205.js.map": "/resume-chatbot/static/js/main.5e238205.js.map",
+    "453.20359781.chunk.js.map": "/resume-chatbot/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74773e1c.css",
+    "static/js/main.5e238205.js"
+  ]
+}
